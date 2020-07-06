@@ -1,0 +1,56 @@
+# Project exclude paths
+/.gradle/
+/Phone Book/task/build/
+/Phone Book/task/out/
+/Phone Book/task/out/production/classes/
+/Phone Book/task/out/test/classes/
+/Problems/A fixed point/out/
+/Problems/A fixed point/out/production/classes/
+/Problems/Boys in a sport class/out/
+/Problems/Boys in a sport class/out/production/classes/
+/Problems/Bus tour/out/
+/Problems/Bus tour/out/production/classes/
+/Problems/Count comparisons/out/
+/Problems/Count comparisons/out/production/classes/
+/Problems/Count elements of an array in another one/out/
+/Problems/Count elements of an array in another one/out/production/classes/
+/Problems/Descending sorting swaps/out/
+/Problems/Descending sorting swaps/out/production/classes/
+/Problems/Does the array contain the element/out/
+/Problems/Does the array contain the element/out/production/classes/
+/Problems/Find a block that may contain the target value/out/
+/Problems/Find a block that may contain the target value/out/production/classes/
+/Problems/Finding a collection of elements in a sorted array/out/
+/Problems/Finding a collection of elements in a sorted array/out/production/classes/
+/Problems/Implementing the EntrySet method/out/
+/Problems/Implementing the EntrySet method/out/production/classes/
+/Problems/K-combination/out/
+/Problems/K-combination/out/production/classes/
+/Problems/Move the pivot/out/
+/Problems/Move the pivot/out/production/classes/
+/Problems/N-th power/out/
+/Problems/N-th power/out/production/classes/
+/Problems/Number of decompositions/out/
+/Problems/Number of decompositions/out/production/classes/
+/Problems/Phone Book/out/
+/Problems/Phone Book/out/production/classes/
+/Problems/Print comparisons/out/
+/Problems/Print comparisons/out/production/classes/
+/Problems/Rehashing/out/
+/Problems/Rehashing/out/production/classes/
+/Problems/Removing/out/
+/Problems/Removing/out/production/classes/
+/Problems/Search indexes of values in another array/out/
+/Problems/Search indexes of values in another array/out/production/classes/
+/Problems/Searching in a descending sorted array/out/
+/Problems/Searching in a descending sorted array/out/production/classes/
+/Problems/Swaps/out/
+/Problems/Swaps/out/production/classes/
+/Problems/The first occurrence in the subarray/out/
+/Problems/The first occurrence in the subarray/out/production/classes/
+/Problems/The index of the K occurrence/out/
+/Problems/The index of the K occurrence/out/production/classes/
+/Problems/The index of the last occurrence/out/
+/Problems/The index of the last occurrence/out/production/classes/
+/Problems/The number of occurrences/out/
+/Problems/The number of occurrences/out/production/classes/

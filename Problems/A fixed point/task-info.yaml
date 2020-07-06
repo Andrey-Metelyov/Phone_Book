@@ -1,0 +1,14 @@
+type: code
+files:
+- name: src/Main.java
+  visible: true
+  text: "public class Main {\n    public static void main(String[] args) {\n     \
+    \   // put your code here   \n    }\n}"
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/3131
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/3131">JetBrains
+    Academy</a></html>
+  time: Sun, 05 Jul 2020 03:49:52 UTC
+record: -1
